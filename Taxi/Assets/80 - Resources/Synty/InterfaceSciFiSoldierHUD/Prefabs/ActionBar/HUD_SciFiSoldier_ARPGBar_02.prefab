@@ -196,7 +196,7 @@ SortingGroup:
   m_GameObject: {fileID: 2707116773147243804}
   m_Enabled: 1
   m_SortingLayerID: -650408613
-  m_SortingLayer: -1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_SortAtRoot: 0
 --- !u!1 &2735647593634670502
@@ -421,7 +421,7 @@ SortingGroup:
   m_GameObject: {fileID: 3912522166622591762}
   m_Enabled: 1
   m_SortingLayerID: -650408613
-  m_SortingLayer: -1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_SortAtRoot: 0
 --- !u!1 &4763698703430483943
@@ -867,7 +867,7 @@ SortingGroup:
   m_GameObject: {fileID: 8020917594814208086}
   m_Enabled: 1
   m_SortingLayerID: -650408613
-  m_SortingLayer: -1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_SortAtRoot: 0
 --- !u!1001 &518225783641420074
